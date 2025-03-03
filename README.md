@@ -7,6 +7,8 @@
 
 This repository implements a Multi-Task Learning (MTL) architecture that performs multiple computer vision tasks in a single pass to enable cost-effective autonomous driving perception. Our system achieves real-time performance with a single forward pass taking only 0.007944s.
 
+> **🚀 Featured Insight:** Discover how our model handles real-world traffic scenarios in India! [Check out this insightful LinkedIn post](https://www.linkedin.com/posts/gen-intelligence_indian-street-activity-6834375620462489600-Theg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0zn_AB35C2DW6c0JrixmdBygc2o4dtvbc).
+
 ## Key Features
 
 - **Multi-Task Learning (MTL)**: Combines 2D object detection, semantic segmentation, and monocular depth estimation in a single neural network
